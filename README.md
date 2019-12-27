@@ -6,7 +6,7 @@ Site is under construction.
 
 For any information and contact, please send mail to: 
 
-# Centar za Elektronsku mikroskopiju
+# Centar za elektronsku mikroskopiju
 Univerzitet u Beogradu-Biološki fakultet
 
 Sajt je u izradi.
